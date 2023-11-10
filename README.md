@@ -1,5 +1,6 @@
 # Carrusel
 🌟🖼️ Carrusel de imágenes 🖼️🌟
+
 Un carrusel de imágenes en HTML y CSS es un componente web 
 que muestra varias imágenes de forma secuencial.
 
