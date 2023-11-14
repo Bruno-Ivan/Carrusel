@@ -1,4 +1,4 @@
-# Carrusel
+
 🖼️ Carrusel de imágenes 🖼️
 
 La estructura creada para el carrusel es impresionante. Se nota la atención a la estructura, con un contenedor principal que alberga diversas secciones de elementos, cada uno con un conjunto de imágenes. El uso de clases y la vinculación a una hoja de estilo externa proporcionan un código limpio y fácil de mantener.
